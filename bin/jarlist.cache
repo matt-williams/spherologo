@@ -1,0 +1,7 @@
+# cache for current jar dependecy. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1349559628000 904337 07a5b9c327b411f4cfb94b7890e0a8bd99d8b635 /home/mirw/git/Sphero-Android-SDK/library/RobotUILibrary/libs/RobotLibrary.jar
+1349559628000 904337 07a5b9c327b411f4cfb94b7890e0a8bd99d8b635 /home/mirw/workspace/SpheroTest/libs/RobotLibrary.jar
+1349559504000 349252 612846c9857077a039b533718f72db3bc041d389 /home/mirw/git/Sphero-Android-SDK/library/RobotUILibrary/libs/android-support-v4.jar
+1349559504000 349252 612846c9857077a039b533718f72db3bc041d389 /home/mirw/workspace/SpheroTest/libs/android-support-v4.jar

@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pause_play"
+          android:title="@string/pause"/>
+    <item android:id="@+id/repeat"
+          android:title="@string/repeat"/>
+    <item android:id="@+id/clear"
+          android:title="@string/clear"/>
+    <item android:id="@+id/demo"
+          android:title="@string/demo"/>
+    <item android:id="@+id/calibrate"
+          android:title="@string/calibrate"/>
+    <item android:id="@+id/connect"
+          android:title="@string/connect"/>
+    <item android:id="@+id/forget_vocab"
+          android:title="@string/forget_vocab"/>
+</menu>
